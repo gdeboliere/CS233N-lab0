@@ -22,6 +22,7 @@ namespace TicTacToe
         const string EMPTY = "";
 
         const int SIZE = 5;
+        // this is a comment
 
         // constants for the 2 diagonals
         const int TOP_LEFT_TO_BOTTOM_RIGHT = 1;
